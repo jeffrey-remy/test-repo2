@@ -1,1 +1,1 @@
-This is a example of a file in Git
+This is not an example of a file in Git
